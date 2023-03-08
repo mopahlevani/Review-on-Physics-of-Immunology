@@ -1,1 +1,2 @@
 # Review-on-Physics-of-Immunology
+The immune system protects the body against internal and external threats with its automatic and dynamic function at different scales. In recent years, physicists have studied this biological system from different perspectives. Many theoretical and practical types of research have been done to predict the behaviour of cell-molecular complexes active in the immune system. In this article, the immune system is studied with special attention to its physical and quantitative characteristics.
